@@ -1611,7 +1611,7 @@ h3 {
   background: #fff;
   display: inline-block;
   z-index: 9;
-  width: 681px;
+  width: 100%;
   padding: 60px 40px;
 }
 .popup_box h3 {
